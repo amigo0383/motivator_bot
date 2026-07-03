@@ -9,7 +9,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
 # Конфигурация
-API_TOKEN = '8014920100:AAGBt7DlitAa6EnWUE_6evp3DNUOoFXwzN8'  # Замените на токен от @BotFather
+API_TOKEN = ''  # Замените на токен от @BotFather
 ADMIN_ID = 6250264162     # Ваш ID (узнать у @userinfobot)
 BASE_DIR = Path(r"C:\Users\kluso\OneDrive\Рабочий стол\TG Bot 2_7867\Bot")
 DB_PATH = BASE_DIR / "bot_data.db"
